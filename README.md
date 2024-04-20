@@ -15,6 +15,6 @@ Kirimin Mobile App for food order and delivery. Developed with React Native! (Na
 
 ## Tech Stack
 
-- **Framework:** [React Native](https://nextjs.org)
+- **Framework:** [React Native](https://reactnative.dev/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com)
 - **Content Management:** [Sanity](https://www.sanity.io/)
