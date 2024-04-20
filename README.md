@@ -2,10 +2,15 @@
 
 Kirimin Mobile App for food order and delivery.
 
-[![Kirimin](./assets/images/Home.jpg)]
-[![Kirimin](./assets/images/Menu.jpg)]
-[![Kirimin](./assets/images/Order.jpg)]
-[![Kirimin](./assets/images/Payment.jpg)]
+<!-- Screenshots -->
+### Screenshots
+<div style="display: inline_block" align="center"><br>
+ <img align="center" alt="React"  width="180" src="./assets/images/Home.jpg">
+ <img align="center" alt="React"  width="180" src="./assets/images/Menu.jpg">
+ <img align="center" alt="React"  width="180" src="./assets/images/Order.jpg">
+ <img align="center" alt="React"  width="180" src="./assets/images/Payment.jpg">
+</div>
+<br />
 
 
 ## Tech Stack
