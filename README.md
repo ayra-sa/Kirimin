@@ -1,9 +1,9 @@
-# [Kirimin]
+# Kirimin
 
-Kirimin Mobile App for food order and delivery.
+Kirimin Mobile App for food order and delivery. Developed with React Native! (Navigation, Redux, Tailwindcss, Sanity.io)
 
 <!-- Screenshots -->
-### Screenshots
+## Screenshots
 <div style="display: inline_block" align="center"><br>
  <img align="center" alt="React"  width="180" src="./assets/images/Home.jpg">
  <img align="center" alt="React"  width="180" src="./assets/images/Menu.jpg">
